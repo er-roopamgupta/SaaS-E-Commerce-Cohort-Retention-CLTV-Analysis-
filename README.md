@@ -1,9 +1,11 @@
-SaaS & E-Commerce Cohort Retention & CLTV Analysis
-Executive Summary
-Acquiring new customers costs up to five times more than retaining existing ones. This project performs an end-to-end cohort analysis on transactional data to identify user retention decay patterns, compute Customer Lifetime Value (CLTV), and deliver data-backed recommendations to minimize early churn.
+SaaS-E-Commerce-Cohort-Retention-CLTV-Analysis-
+
+
+This project focuses on evaluating customer retention and Customer Lifetime Value (CLTV) for a SaaS or E-Commerce business by tracking user behavior across monthly acquisition cohorts. Rather than relying solely on top-of-funnel acquisition metrics, the analysis pinpoints the exact timeframes when users churn after joining. By uncovering these retention patterns and lifetime revenue potential, the project delivers actionable, data-driven strategies to minimize churn, boost long-term customer value, and build a sustainable growth model.
+
 
 Technical Stack & Skills
-Language: Python 3.x
+
 
 Data Processing: Pandas, NumPy
 
